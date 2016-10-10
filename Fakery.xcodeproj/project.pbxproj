@@ -931,6 +931,7 @@
 				PRODUCT_NAME = Fakery;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -953,6 +954,7 @@
 				PRODUCT_NAME = Fakery;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -1091,6 +1093,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.vadym-markov.Fakery";
 				PRODUCT_NAME = Fakery;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -1108,6 +1111,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.vadym-markov.Fakery";
 				PRODUCT_NAME = Fakery;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -1149,6 +1153,7 @@
 				PRODUCT_NAME = Fakery;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
 			};
@@ -1170,6 +1175,7 @@
 				PRODUCT_NAME = Fakery;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
 			};
